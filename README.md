@@ -1,7 +1,7 @@
 # construction-salesforce-diagnostics
-Salesforce 데이터를 기반으로 고객 및 project pipeline을 관리하고, 전략 보고서를 통해 건설 회사의 SCM 개선 솔루션을 제안한 프로젝트입니다.
+Salesforce 데이터를 기반으로 고객 및 project pipeline을 관리하고, 전략 보고서를 통해 건설 회사의 Operations 개선 솔루션을 제안한 프로젝트입니다.
 
-# 건설업계 클라이언트 CRM 및 건설회사 SCM 진단 프로젝트
+# 건설업계 클라이언트 CRM 및 건설회사 Operations 진단 프로젝트
 
 ## 🗓 기간
 약 2개월
